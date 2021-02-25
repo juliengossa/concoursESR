@@ -3,7 +3,7 @@
 #Corrige à l'arrache le html
 #Converti en csv et nettoie les noms de fichers
 
-RENTREE="2020"
+RENTREE="2021"
 WD=$PWD
 
 cd /tmp

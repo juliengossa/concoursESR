@@ -12,7 +12,7 @@ library(ggrepel)
 library(plotly)
 library(ggthemes)
 
-rentrée <- 2020
+rentrée <- 2021
 
 
 # Approximation des sections CNU correspondant aux flilières en tension
@@ -26,10 +26,13 @@ emplois.2019 <- read.table("emplois-ec.2019.csv",header=TRUE, sep=",", quote='"'
 emplois.2019$Rentrée <- 2019
 emplois.2020 <- read.table("emplois-ec.2020.csv",header=TRUE, sep=",", quote='"')
 emplois.2020$Rentrée <- 2020
+emplois.2021 <- read.table("emplois-ec.2021.csv",header=TRUE, sep=",", quote='"')
+emplois.2021$Rentrée <- 2021
 
 emplois <- emplois.2018 %>% 
   bind_rows(emplois.2019) %>% 
   bind_rows(emplois.2020) %>%
+  bind_rows(emplois.2021) %>%
   mutate(
     Rentrée = as.factor(Rentrée),
     Code.section = as.factor(Section),
@@ -41,7 +44,7 @@ write.csv2(emplois,file="emplois-ec.csv",row.names=FALSE)
 
 effectifs <- read.table("fr-esr-enseignants-titulaires-esr-public.csv",
                       header=TRUE, sep=';', quote='"') %>%
-  filter(Rentrée == 2017, Code.categorie.personnels %in% c("MCF","PR")) %>%
+  filter(Rentrée == 2018, Code.categorie.personnels %in% c("MCF","PR")) %>%
   mutate(
     Rentrée = as.factor(Rentrée),
     UAI = Identifiant.établissement,
@@ -49,8 +52,8 @@ effectifs <- read.table("fr-esr-enseignants-titulaires-esr-public.csv",
     Corps = Code.categorie.personnels,
     Code.section = code_section_cnu,
     Section = as.factor(paste0(as.numeric(code_section_cnu),"-",Sections.CNU)),
-    Groupe = Groupes.CNU,
-    Discipline = Grandes.disciplines
+    Groupe = as.factor(Groupes.CNU),
+    Discipline = as.factor(Grandes.disciplines)
   ) %>% 
   group_by(UAI, Type, Corps, Code.section, Section, Groupe, Discipline) %>%
   summarise(Effectif = sum(effectif))
@@ -115,6 +118,7 @@ emplois.cnu <-
         values_from = Effectif, 
         values_fill = list(Effectif = 0))
   ) %>%
+  mutate(Discipline = as.factor(Discipline)) %>%
   group_by(Rentrée, Code.section, Section, Groupe, Discipline) %>%
   summarise(
     Emplois_MCF  = sum(Emplois_MCF),

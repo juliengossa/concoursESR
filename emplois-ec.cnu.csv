@@ -1,168 +1,224 @@
 "Rentrée";"Code.section";"Section";"Groupe";"Discipline";"Emplois_MCF";"Emplois_PR";"Effectif_MCF";"Effectif_PR";"Renouvellement";"Promotion"
-"2018";"1";"1-Droit privé et sciences criminelles";"Droit et science politique";"Droit, économie et gestion";56;26;1219;600;0,0307861462341946;0,0213289581624282
-"2018";"2";"2-Droit public";"Droit et science politique";"Droit, économie et gestion";23;19;813;483;0,0177469135802469;0,023370233702337
-"2018";"3";"3-Histoire du droit et des institutions";"Droit et science politique";"Droit, économie et gestion";4;2;148;109;0,0155642023346304;0,0135135135135135
-"2018";"4";"4-Science politique";"Droit et science politique";"Droit, économie et gestion";20;4;262;130;0,0510204081632653;0,0152671755725191
-"2018";"5";"5-Sciences économiques";"Sciences économiques et de gestion";"Droit, économie et gestion";37;24;1185;547;0,0213625866050808;0,020253164556962
-"2018";"6";"6-Sciences de gestion";"Sciences économiques et de gestion";"Droit, économie et gestion";85;36;1627;484;0,0402652771198484;0,0221266133988937
-"2018";"7";"7-Sciences du langage : linguistique et phonétique générales";"Langues et littératures";"Lettres et sciences humaines";26;13;531;240;0,0337224383916991;0,0244821092278719
-"2018";"8";"8-Langues et littératures anciennes";"Langues et littératures";"Lettres et sciences humaines";5;7;189;102;0,0171821305841924;0,037037037037037
-"2018";"9";"9-Langue et littérature française";"Langues et littératures";"Lettres et sciences humaines";26;23;603;320;0,028169014084507;0,0381426202321725
-"2018";"10";"10-Littératures comparées";"Langues et littératures";"Lettres et sciences humaines";6;1;123;85;0,0288461538461538;0,00813008130081301
-"2018";"11";"11-Langues et littératures anglaises et anglo-saxonnes";"Langues et littératures";"Lettres et sciences humaines";49;23;1293;388;0,0291493158834027;0,0177880897138438
-"2018";"12";"12-Langues et littératures germaniques et scandinaves";"Langues et littératures";"Lettres et sciences humaines";11;4;294;93;0,0284237726098191;0,0136054421768707
-"2018";"13";"13-Langues et littératures slaves";"Langues et littératures";"Lettres et sciences humaines";6;3;91;34;0,048;0,032967032967033
-"2018";"14";"14-Langues et littératures romanes : espagnol, italien, portugais, autres langues romanes";"Langues et littératures";"Lettres et sciences humaines";27;12;728;238;0,0279503105590062;0,0164835164835165
-"2018";"15";"15-Langues et littératures arabes, chinoises, japonaises, hébraique, d'autres domaines linguistiques";"Langues et littératures";"Lettres et sciences humaines";21;3;281;108;0,0539845758354756;0,0106761565836299
-"2018";"16";"16-Psychologie, psychologie clinique, psychologie sociale";"Sciences humaines";"Lettres et sciences humaines";44;18;963;397;0,0323529411764706;0,0186915887850467
-"2018";"17";"17-Philosophie";"Sciences humaines";"Lettres et sciences humaines";15;10;224;160;0,0390625;0,0446428571428571
-"2018";"18";"18-Architecture (ses théories et ses pratiques), arts appliqués, arts plastiques, arts du spectacle, épistémologie des enseignements artistiques, esthétique, musicologie, musique, sciences de l'art";"Sciences humaines";"Lettres et sciences humaines";27;10;514;204;0,0376044568245125;0,0194552529182879
-"2018";"19";"19-Sociologie, démographie";"Sciences humaines";"Lettres et sciences humaines";22;17;627;246;0,0252004581901489;0,0271132376395534
-"2018";"20";"20-Ethnologie, préhistoire, anthropologie biologique";"Sciences humaines";"Lettres et sciences humaines";5;2;133;71;0,0245098039215686;0,0150375939849624
-"2018";"21";"21-Histoire, civilisations, archéologie et art des mondes anciens et médiévaux";"Sciences humaines";"Lettres et sciences humaines";12;23;489;256;0,0161073825503356;0,0470347648261759
-"2018";"22";"22-Histoire et civilisations : histoire des mondes modernes, histoire du monde contemporain , de l'art , de la musique";"Sciences humaines";"Lettres et sciences humaines";25;23;663;392;0,023696682464455;0,0346907993966818
-"2018";"23";"23-Géographie physique, humaine, économique et régionale";"Sciences humaines";"Lettres et sciences humaines";23;7;587;265;0,0269953051643192;0,0119250425894378
-"2018";"24";"24-Aménagement de l'espace, urbanisme";"Sciences humaines";"Lettres et sciences humaines";6;2;164;99;0,0228136882129278;0,0121951219512195
-"2018";"25";"25-Mathématiques";"Mathématiques et informatique";"Sciences";21;14;823;498;0,0158970476911431;0,0170109356014581
-"2018";"26";"26-Mathématiques appliquées et applications des mathématiques";"Mathématiques et informatique";"Sciences";27;25;1147;629;0,0152027027027027;0,021795989537925
-"2018";"27";"27-Informatique";"Mathématiques et informatique";"Sciences";64;33;2403;968;0,0189854642539306;0,0137328339575531
-"2018";"28";"28-Milieux denses et matériaux";"Physique";"Sciences";7;9;858;490;0,00519287833827893;0,0104895104895105
-"2018";"29";"29-Constituants élémentaires";"Physique";"Sciences";4;2;221;175;0,0101010101010101;0,00904977375565611
-"2018";"30";"30-Milieux dilués et optique";"Physique";"Sciences";10;3;374;250;0,016025641025641;0,00802139037433155
-"2018";"31";"31-Chimie théorique, physique, analytique";"Chimie";"Sciences";11;12;668;326;0,0110663983903421;0,0179640718562874
-"2018";"32";"32-Chimie organique, minérale, industrielle";"Chimie";"Sciences";14;6;845;388;0,0113544201135442;0,00710059171597633
-"2018";"33";"33-Chimie des matériaux";"Chimie";"Sciences";9;6;574;329;0,00996677740863787;0,0104529616724739
-"2018";"34";"34-Astronomie, astrophysique";"Sciences de la terre";"Sciences";2;4;116;69;0,0108108108108108;0,0344827586206897
-"2018";"35";"35-Structure et évolution de la terre et des autres planètes";"Sciences de la terre";"Sciences";7;7;330;179;0,0137524557956778;0,0212121212121212
-"2018";"36";"36-Terre solide : géodynamique des enveloppes supérieure, paléo-biosphère";"Sciences de la terre";"Sciences";3;4;268;125;0,00763358778625954;0,0149253731343284
-"2018";"37";"37-Météorologie, océanographie physique de l'environnement";"Sciences de la terre";"Sciences";2;2;132;59;0,0104712041884817;0,0151515151515152
-"2018";"60";"60-Mécanique, génie mécanique, génie civil";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";54;18;1607;784;0,0225846925972397;0,0112009956440573
-"2018";"61";"61-Génie informatique, automatique et traitement du signal";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";26;14;1206;548;0,0148232611174458;0,0116086235489221
-"2018";"62";"62-Energétique, génie des procédés";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";16;7;703;393;0,0145985401459854;0,00995732574679943
-"2018";"63";"63-Génie électrique, électronique, photonique et systèmes";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";21;11;1117;571;0,0124407582938389;0,00984780662488809
-"2018";"64";"64-Biochimie et biologie moléculaire";"Biologie et biochimie, neurosciences";"Sciences";21;13;773;296;0,019644527595884;0,0168175937904269
-"2018";"65";"65-Biologie cellulaire";"Biologie et biochimie, neurosciences";"Sciences";17;7;752;274;0,0165692007797271;0,00930851063829787
-"2018";"66";"66-Physiologie";"Biologie et biochimie, neurosciences";"Sciences";5;5;544;197;0,0067476383265857;0,00919117647058824
-"2018";"67";"67-Biologie des populations et écologie";"Biologie et biochimie, neurosciences";"Sciences";14;7;499;195;0,0201729106628242;0,0140280561122244
-"2018";"68";"68-Biologie des organismes";"Biologie et biochimie, neurosciences";"Sciences";6;2;344;153;0,0120724346076459;0,00581395348837209
-"2018";"69";"69-Neurosciences";"Biologie et biochimie, neurosciences";"Sciences";6;2;287;118;0,0148148148148148;0,00696864111498258
-"2018";"70";"70-Sciences de l'éducation";"Groupe pluridisciplinaire";"Lettres et sciences humaines";35;18;504;173;0,051698670605613;0,0357142857142857
-"2018";"71";"71-Sciences de l'information et de la communication";"Groupe pluridisciplinaire";"Lettres et sciences humaines";35;5;613;170;0,0446998722860792;0,00815660685154975
-"2018";"72";"72-Epistémologie, histoire des sciences et des techniques";"Groupe pluridisciplinaire";"Lettres et sciences humaines";1;0;66;22;0,0113636363636364;0
-"2018";"73";"73-Cultures et langues régionales";"Groupe pluridisciplinaire";"Lettres et sciences humaines";1;2;34;22;0,0178571428571429;0,0588235294117647
-"2018";"74";"74-Sciences et techniques des activités physiques et sportives";"Groupe pluridisciplinaire";"Lettres et sciences humaines";36;15;642;166;0,0445544554455446;0,0233644859813084
-"2018";"76";"76-Théologie catholique";"Théologie";"Lettres et sciences humaines";3;0;17;13;0,1;0
-"2018";"85";"85-Sciences physico-chimiques et ingénierie appliquée à la santé";"Pharmacie(mono-appartenants)";"Pharmacie";7;3;323;110;0,0161662817551963;0,00928792569659443
-"2018";"86";"86-Sciences du médicament et des autres produits de santé";"Pharmacie(mono-appartenants)";"Pharmacie";13;5;389;180;0,0228471001757469;0,012853470437018
-"2018";"87";"87-Sciences biologiques, fondamentales et cliniques";"Pharmacie(mono-appartenants)";"Pharmacie";3;3;300;95;0,00759493670886076;0,01
-"2019";"1";"1-Droit privé et sciences criminelles";"Droit et science politique";"Droit, économie et gestion";50;25;1219;600;0,0274876305662452;0,0205086136177194
-"2019";"2";"2-Droit public";"Droit et science politique";"Droit, économie et gestion";42;23;813;483;0,0324074074074074;0,028290282902829
-"2019";"3";"3-Histoire du droit et des institutions";"Droit et science politique";"Droit, économie et gestion";6;3;148;109;0,0233463035019455;0,0202702702702703
-"2019";"4";"4-Science politique";"Droit et science politique";"Droit, économie et gestion";13;1;262;130;0,0331632653061225;0,00381679389312977
-"2019";"5";"5-Sciences économiques";"Sciences économiques et de gestion";"Droit, économie et gestion";44;18;1185;547;0,0254041570438799;0,0151898734177215
-"2019";"6";"6-Sciences de gestion";"Sciences économiques et de gestion";"Droit, économie et gestion";77;35;1627;484;0,0364756039791568;0,0215119852489244
-"2019";"7";"7-Sciences du langage : linguistique et phonétique générales";"Langues et littératures";"Lettres et sciences humaines";15;18;531;240;0,0194552529182879;0,0338983050847458
-"2019";"8";"8-Langues et littératures anciennes";"Langues et littératures";"Lettres et sciences humaines";7;3;189;102;0,0240549828178694;0,0158730158730159
-"2019";"9";"9-Langue et littérature française";"Langues et littératures";"Lettres et sciences humaines";21;25;603;320;0,0227518959913326;0,0414593698175788
-"2019";"10";"10-Littératures comparées";"Langues et littératures";"Lettres et sciences humaines";2;4;123;85;0,00961538461538462;0,032520325203252
-"2019";"11";"11-Langues et littératures anglaises et anglo-saxonnes";"Langues et littératures";"Lettres et sciences humaines";51;22;1293;388;0,0303390838786437;0,017014694508894
-"2019";"12";"12-Langues et littératures germaniques et scandinaves";"Langues et littératures";"Lettres et sciences humaines";4;0;294;93;0,0103359173126615;0
-"2019";"13";"13-Langues et littératures slaves";"Langues et littératures";"Lettres et sciences humaines";2;0;91;34;0,016;0
-"2019";"14";"14-Langues et littératures romanes : espagnol, italien, portugais, autres langues romanes";"Langues et littératures";"Lettres et sciences humaines";20;16;728;238;0,020703933747412;0,021978021978022
-"2019";"15";"15-Langues et littératures arabes, chinoises, japonaises, hébraique, d'autres domaines linguistiques";"Langues et littératures";"Lettres et sciences humaines";17;7;281;108;0,0437017994858612;0,0249110320284698
-"2019";"16";"16-Psychologie, psychologie clinique, psychologie sociale";"Sciences humaines";"Lettres et sciences humaines";53;14;963;397;0,0389705882352941;0,0145379023883697
-"2019";"17";"17-Philosophie";"Sciences humaines";"Lettres et sciences humaines";10;9;224;160;0,0260416666666667;0,0401785714285714
-"2019";"18";"18-Architecture (ses théories et ses pratiques), arts appliqués, arts plastiques, arts du spectacle, épistémologie des enseignements artistiques, esthétique, musicologie, musique, sciences de l'art";"Sciences humaines";"Lettres et sciences humaines";20;19;514;204;0,0278551532033426;0,0369649805447471
-"2019";"19";"19-Sociologie, démographie";"Sciences humaines";"Lettres et sciences humaines";30;13;627;246;0,0343642611683849;0,0207336523125997
-"2019";"20";"20-Ethnologie, préhistoire, anthropologie biologique";"Sciences humaines";"Lettres et sciences humaines";3;4;133;71;0,0147058823529412;0,0300751879699248
-"2019";"21";"21-Histoire, civilisations, archéologie et art des mondes anciens et médiévaux";"Sciences humaines";"Lettres et sciences humaines";17;9;489;256;0,0228187919463087;0,0184049079754601
-"2019";"22";"22-Histoire et civilisations : histoire des mondes modernes, histoire du monde contemporain , de l'art , de la musique";"Sciences humaines";"Lettres et sciences humaines";20;19;663;392;0,018957345971564;0,028657616892911
-"2019";"23";"23-Géographie physique, humaine, économique et régionale";"Sciences humaines";"Lettres et sciences humaines";13;8;587;265;0,0152582159624413;0,0136286201022147
-"2019";"24";"24-Aménagement de l'espace, urbanisme";"Sciences humaines";"Lettres et sciences humaines";6;3;164;99;0,0228136882129278;0,0182926829268293
-"2019";"25";"25-Mathématiques";"Mathématiques et informatique";"Sciences";22;15;823;498;0,0166540499621499;0,0182260024301337
-"2019";"26";"26-Mathématiques appliquées et applications des mathématiques";"Mathématiques et informatique";"Sciences";40;18;1147;629;0,0225225225225225;0,015693112467306
-"2019";"27";"27-Informatique";"Mathématiques et informatique";"Sciences";65;39;2403;968;0,0192821121328982;0,0162297128589263
-"2019";"28";"28-Milieux denses et matériaux";"Physique";"Sciences";8;22;858;490;0,00593471810089021;0,0256410256410256
-"2019";"29";"29-Constituants élémentaires";"Physique";"Sciences";4;2;221;175;0,0101010101010101;0,00904977375565611
-"2019";"30";"30-Milieux dilués et optique";"Physique";"Sciences";3;4;374;250;0,00480769230769231;0,0106951871657754
-"2019";"31";"31-Chimie théorique, physique, analytique";"Chimie";"Sciences";15;11;668;326;0,0150905432595573;0,0164670658682635
-"2019";"32";"32-Chimie organique, minérale, industrielle";"Chimie";"Sciences";9;3;845;388;0,0072992700729927;0,00355029585798817
-"2019";"33";"33-Chimie des matériaux";"Chimie";"Sciences";3;6;574;329;0,00332225913621262;0,0104529616724739
-"2019";"34";"34-Astronomie, astrophysique";"Sciences de la terre";"Sciences";4;4;116;69;0,0216216216216216;0,0344827586206897
-"2019";"35";"35-Structure et évolution de la terre et des autres planètes";"Sciences de la terre";"Sciences";9;8;330;179;0,0176817288801572;0,0242424242424242
-"2019";"36";"36-Terre solide : géodynamique des enveloppes supérieure, paléo-biosphère";"Sciences de la terre";"Sciences";0;2;268;125;0;0,00746268656716418
-"2019";"37";"37-Météorologie, océanographie physique de l'environnement";"Sciences de la terre";"Sciences";1;1;132;59;0,00523560209424084;0,00757575757575758
-"2019";"60";"60-Mécanique, génie mécanique, génie civil";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";51;25;1607;784;0,0213299874529486;0,015556938394524
-"2019";"61";"61-Génie informatique, automatique et traitement du signal";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";33;20;1206;548;0,0188141391106043;0,0165837479270315
-"2019";"62";"62-Energétique, génie des procédés";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";10;8;703;393;0,00912408759124088;0,0113798008534851
-"2019";"63";"63-Génie électrique, électronique, photonique et systèmes";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";20;13;1117;571;0,0118483412322275;0,0116383169203223
-"2019";"64";"64-Biochimie et biologie moléculaire";"Biologie et biochimie, neurosciences";"Sciences";21;12;773;296;0,019644527595884;0,0155239327296248
-"2019";"65";"65-Biologie cellulaire";"Biologie et biochimie, neurosciences";"Sciences";13;5;752;274;0,0126705653021442;0,00664893617021277
-"2019";"66";"66-Physiologie";"Biologie et biochimie, neurosciences";"Sciences";4;6;544;197;0,00539811066126856;0,0110294117647059
-"2019";"67";"67-Biologie des populations et écologie";"Biologie et biochimie, neurosciences";"Sciences";8;3;499;195;0,0115273775216138;0,00601202404809619
-"2019";"68";"68-Biologie des organismes";"Biologie et biochimie, neurosciences";"Sciences";4;3;344;153;0,00804828973843058;0,00872093023255814
-"2019";"69";"69-Neurosciences";"Biologie et biochimie, neurosciences";"Sciences";8;4;287;118;0,0197530864197531;0,0139372822299652
-"2019";"70";"70-Sciences de l'éducation";"Groupe pluridisciplinaire";"Lettres et sciences humaines";34;15;504;173;0,0502215657311669;0,0297619047619048
-"2019";"71";"71-Sciences de l'information et de la communication";"Groupe pluridisciplinaire";"Lettres et sciences humaines";25;9;613;170;0,0319284802043423;0,0146818923327896
-"2019";"72";"72-Epistémologie, histoire des sciences et des techniques";"Groupe pluridisciplinaire";"Lettres et sciences humaines";1;1;66;22;0,0113636363636364;0,0151515151515152
-"2019";"73";"73-Cultures et langues régionales";"Groupe pluridisciplinaire";"Lettres et sciences humaines";2;1;34;22;0,0357142857142857;0,0294117647058824
-"2019";"74";"74-Sciences et techniques des activités physiques et sportives";"Groupe pluridisciplinaire";"Lettres et sciences humaines";46;7;642;166;0,0569306930693069;0,0109034267912773
-"2019";"76";"76-Théologie catholique";"Théologie";"Lettres et sciences humaines";0;1;17;13;0;0,0588235294117647
-"2019";"85";"85-Sciences physico-chimiques et ingénierie appliquée à la santé";"Pharmacie(mono-appartenants)";"Pharmacie";13;4;323;110;0,0300230946882217;0,0123839009287926
-"2019";"86";"86-Sciences du médicament et des autres produits de santé";"Pharmacie(mono-appartenants)";"Pharmacie";9;7;389;180;0,015817223198594;0,0179948586118252
-"2019";"87";"87-Sciences biologiques, fondamentales et cliniques";"Pharmacie(mono-appartenants)";"Pharmacie";1;3;300;95;0,00253164556962025;0,01
-"2020";"1";"1-Droit privé et sciences criminelles";"Droit et science politique";"Droit, économie et gestion";53;30;1219;600;0,0291368884002199;0,0246103363412633
-"2020";"2";"2-Droit public";"Droit et science politique";"Droit, économie et gestion";40;15;813;483;0,0308641975308642;0,018450184501845
-"2020";"3";"3-Histoire du droit et des institutions";"Droit et science politique";"Droit, économie et gestion";5;1;148;109;0,0194552529182879;0,00675675675675676
-"2020";"4";"4-Science politique";"Droit et science politique";"Droit, économie et gestion";15;5;262;130;0,038265306122449;0,0190839694656489
-"2020";"5";"5-Sciences économiques";"Sciences économiques et de gestion";"Droit, économie et gestion";43;25;1185;547;0,0248267898383372;0,0210970464135021
-"2020";"6";"6-Sciences de gestion";"Sciences économiques et de gestion";"Droit, économie et gestion";79;20;1627;484;0,0374230222643297;0,0122925629993854
-"2020";"7";"7-Sciences du langage : linguistique et phonétique générales";"Langues et littératures";"Lettres et sciences humaines";26;18;531;240;0,0337224383916991;0,0338983050847458
-"2020";"8";"8-Langues et littératures anciennes";"Langues et littératures";"Lettres et sciences humaines";7;4;189;102;0,0240549828178694;0,0211640211640212
-"2020";"9";"9-Langue et littérature française";"Langues et littératures";"Lettres et sciences humaines";24;27;603;320;0,0260021668472373;0,0447761194029851
-"2020";"10";"10-Littératures comparées";"Langues et littératures";"Lettres et sciences humaines";5;0;123;85;0,0240384615384615;0
-"2020";"11";"11-Langues et littératures anglaises et anglo-saxonnes";"Langues et littératures";"Lettres et sciences humaines";53;21;1293;388;0,0315288518738846;0,0162412993039443
-"2020";"12";"12-Langues et littératures germaniques et scandinaves";"Langues et littératures";"Lettres et sciences humaines";6;2;294;93;0,0155038759689922;0,00680272108843537
-"2020";"13";"13-Langues et littératures slaves";"Langues et littératures";"Lettres et sciences humaines";4;2;91;34;0,032;0,021978021978022
-"2020";"14";"14-Langues et littératures romanes : espagnol, italien, portugais, autres langues romanes";"Langues et littératures";"Lettres et sciences humaines";18;13;728;238;0,0186335403726708;0,0178571428571429
-"2020";"15";"15-Langues et littératures arabes, chinoises, japonaises, hébraique, d'autres domaines linguistiques";"Langues et littératures";"Lettres et sciences humaines";15;12;281;108;0,038560411311054;0,0427046263345196
-"2020";"16";"16-Psychologie, psychologie clinique, psychologie sociale";"Sciences humaines";"Lettres et sciences humaines";46;18;963;397;0,0338235294117647;0,0186915887850467
-"2020";"17";"17-Philosophie";"Sciences humaines";"Lettres et sciences humaines";18;12;224;160;0,046875;0,0535714285714286
-"2020";"18";"18-Architecture (ses théories et ses pratiques), arts appliqués, arts plastiques, arts du spectacle, épistémologie des enseignements artistiques, esthétique, musicologie, musique, sciences de l'art";"Sciences humaines";"Lettres et sciences humaines";29;12;514;204;0,0403899721448468;0,0233463035019455
-"2020";"19";"19-Sociologie, démographie";"Sciences humaines";"Lettres et sciences humaines";26;14;627;246;0,0297823596792669;0,0223285486443381
-"2020";"20";"20-Ethnologie, préhistoire, anthropologie biologique";"Sciences humaines";"Lettres et sciences humaines";5;5;133;71;0,0245098039215686;0,037593984962406
-"2020";"21";"21-Histoire, civilisations, archéologie et art des mondes anciens et médiévaux";"Sciences humaines";"Lettres et sciences humaines";14;13;489;256;0,0187919463087248;0,0265848670756646
-"2020";"22";"22-Histoire et civilisations : histoire des mondes modernes, histoire du monde contemporain , de l'art , de la musique";"Sciences humaines";"Lettres et sciences humaines";32;21;663;392;0,0303317535545024;0,0316742081447964
-"2020";"23";"23-Géographie physique, humaine, économique et régionale";"Sciences humaines";"Lettres et sciences humaines";24;12;587;265;0,028169014084507;0,020442930153322
-"2020";"24";"24-Aménagement de l'espace, urbanisme";"Sciences humaines";"Lettres et sciences humaines";2;2;164;99;0,00760456273764259;0,0121951219512195
-"2020";"25";"25-Mathématiques";"Mathématiques et informatique";"Sciences";25;9;823;498;0,0189250567751703;0,0109356014580802
-"2020";"26";"26-Mathématiques appliquées et applications des mathématiques";"Mathématiques et informatique";"Sciences";41;20;1147;629;0,0230855855855856;0,01743679163034
-"2020";"27";"27-Informatique";"Mathématiques et informatique";"Sciences";71;41;2403;968;0,0210619994067042;0,0170620058260508
-"2020";"28";"28-Milieux denses et matériaux";"Physique";"Sciences";15;19;858;490;0,0111275964391691;0,0221445221445221
-"2020";"29";"29-Constituants élémentaires";"Physique";"Sciences";4;6;221;175;0,0101010101010101;0,0271493212669683
-"2020";"30";"30-Milieux dilués et optique";"Physique";"Sciences";3;3;374;250;0,00480769230769231;0,00802139037433155
-"2020";"31";"31-Chimie théorique, physique, analytique";"Chimie";"Sciences";12;13;668;326;0,0120724346076459;0,0194610778443114
-"2020";"32";"32-Chimie organique, minérale, industrielle";"Chimie";"Sciences";9;5;845;388;0,0072992700729927;0,00591715976331361
-"2020";"33";"33-Chimie des matériaux";"Chimie";"Sciences";10;6;574;329;0,0110741971207087;0,0104529616724739
-"2020";"34";"34-Astronomie, astrophysique";"Sciences de la terre";"Sciences";0;1;116;69;0;0,00862068965517241
-"2020";"35";"35-Structure et évolution de la terre et des autres planètes";"Sciences de la terre";"Sciences";18;7;330;179;0,0353634577603143;0,0212121212121212
-"2020";"36";"36-Terre solide : géodynamique des enveloppes supérieure, paléo-biosphère";"Sciences de la terre";"Sciences";4;4;268;125;0,0101781170483461;0,0149253731343284
-"2020";"37";"37-Météorologie, océanographie physique de l'environnement";"Sciences de la terre";"Sciences";1;6;132;59;0,00523560209424084;0,0454545454545455
-"2020";"60";"60-Mécanique, génie mécanique, génie civil";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";39;33;1607;784;0,0163111668757842;0,0205351586807716
-"2020";"61";"61-Génie informatique, automatique et traitement du signal";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";33;16;1206;548;0,0188141391106043;0,0132669983416252
-"2020";"62";"62-Energétique, génie des procédés";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";15;12;703;393;0,0136861313868613;0,0170697012802276
-"2020";"63";"63-Génie électrique, électronique, photonique et systèmes";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";28;22;1117;571;0,0165876777251185;0,0196956132497762
-"2020";"64";"64-Biochimie et biologie moléculaire";"Biologie et biochimie, neurosciences";"Sciences";24;13;773;296;0,0224508886810103;0,0168175937904269
-"2020";"65";"65-Biologie cellulaire";"Biologie et biochimie, neurosciences";"Sciences";21;10;752;274;0,0204678362573099;0,0132978723404255
-"2020";"66";"66-Physiologie";"Biologie et biochimie, neurosciences";"Sciences";6;2;544;197;0,00809716599190283;0,00367647058823529
-"2020";"67";"67-Biologie des populations et écologie";"Biologie et biochimie, neurosciences";"Sciences";12;4;499;195;0,0172910662824208;0,00801603206412826
-"2020";"68";"68-Biologie des organismes";"Biologie et biochimie, neurosciences";"Sciences";1;4;344;153;0,00201207243460765;0,0116279069767442
-"2020";"69";"69-Neurosciences";"Biologie et biochimie, neurosciences";"Sciences";4;3;287;118;0,00987654320987654;0,0104529616724739
-"2020";"70";"70-Sciences de l'éducation";"Groupe pluridisciplinaire";"Lettres et sciences humaines";30;17;504;173;0,0443131462333826;0,0337301587301587
-"2020";"71";"71-Sciences de l'information et de la communication";"Groupe pluridisciplinaire";"Lettres et sciences humaines";28;9;613;170;0,0357598978288633;0,0146818923327896
-"2020";"72";"72-Epistémologie, histoire des sciences et des techniques";"Groupe pluridisciplinaire";"Lettres et sciences humaines";2;1;66;22;0,0227272727272727;0,0151515151515152
-"2020";"73";"73-Cultures et langues régionales";"Groupe pluridisciplinaire";"Lettres et sciences humaines";1;2;34;22;0,0178571428571429;0,0588235294117647
-"2020";"74";"74-Sciences et techniques des activités physiques et sportives";"Groupe pluridisciplinaire";"Lettres et sciences humaines";40;13;642;166;0,0495049504950495;0,0202492211838006
-"2020";"85";"85-Sciences physico-chimiques et ingénierie appliquée à la santé";"Pharmacie(mono-appartenants)";"Pharmacie";3;4;323;110;0,0069284064665127;0,0123839009287926
-"2020";"86";"86-Sciences du médicament et des autres produits de santé";"Pharmacie(mono-appartenants)";"Pharmacie";17;4;389;180;0,0298769771528998;0,0102827763496144
-"2020";"87";"87-Sciences biologiques, fondamentales et cliniques";"Pharmacie(mono-appartenants)";"Pharmacie";11;6;300;95;0,0278481012658228;0,02
+"2018";"1";"1-Droit privé et sciences criminelles";"Droit et science politique";"Droit, économie et gestion";56;26;1212;605;0,030820033021464;0,0214521452145215
+"2018";"2";"2-Droit public";"Droit et science politique";"Droit, économie et gestion";23;19;794;498;0,0178018575851393;0,0239294710327456
+"2018";"3";"3-Histoire du droit et des institutions";"Droit et science politique";"Droit, économie et gestion";4;2;150;109;0,0154440154440154;0,0133333333333333
+"2018";"4";"4-Science politique";"Droit et science politique";"Droit, économie et gestion";20;4;265;127;0,0510204081632653;0,0150943396226415
+"2018";"5";"5-Sciences économiques";"Sciences économiques et de gestion";"Droit, économie et gestion";37;24;1168;548;0,0215617715617716;0,0205479452054795
+"2018";"6";"6-Sciences de gestion et du management";"Sciences économiques et de gestion";"Droit, économie et gestion";85;36;1620;494;0,0402081362346263;0,0222222222222222
+"2018";"7";"7-Sciences du langage";"Langues et littératures";"Lettres et sciences humaines";26;13;530;234;0,0340314136125654;0,0245283018867925
+"2018";"8";"8-Langues et littératures anciennes";"Langues et littératures";"Lettres et sciences humaines";5;7;185;99;0,0176056338028169;0,0378378378378378
+"2018";"9";"9-Langue et littérature française";"Langues et littératures";"Lettres et sciences humaines";26;23;594;302;0,0290178571428571;0,0387205387205387
+"2018";"10";"10-Littératures comparées";"Langues et littératures";"Lettres et sciences humaines";6;1;127;84;0,028436018957346;0,0078740157480315
+"2018";"11";"11-Etudes anglophones";"Langues et littératures";"Lettres et sciences humaines";49;23;1248;382;0,0300613496932515;0,0184294871794872
+"2018";"12";"12-Etudes germaniques et scandinaves";"Langues et littératures";"Lettres et sciences humaines";11;4;286;92;0,0291005291005291;0,013986013986014
+"2018";"13";"13-Etudes slaves et baltes";"Langues et littératures";"Lettres et sciences humaines";6;3;93;33;0,0476190476190476;0,032258064516129
+"2018";"14";"14-Etudes romanes";"Langues et littératures";"Lettres et sciences humaines";27;12;727;232;0,0281543274244004;0,0165061898211829
+"2018";"15";"15-Langues, littératures et cultures africaines, asiatiques et d'autres aires";"Langues et littératures";"Lettres et sciences humaines";21;3;305;110;0,0506024096385542;0,00983606557377049
+"2018";"16";"16-Psychologie et ergonomie";"Sciences humaines";"Lettres et sciences humaines";44;18;964;407;0,0320933625091174;0,0186721991701245
+"2018";"17";"17-Philosophie";"Sciences humaines";"Lettres et sciences humaines";15;10;234;158;0,038265306122449;0,0427350427350427
+"2018";"18";"18-Architecture (ses théories et ses pratiques), arts appliqués, arts plastiques, arts du spectacle, épistémologie des enseignements artistiques, esthétique, musicologie, musique, sciences de l'art";"Sciences humaines";"Lettres et sciences humaines";27;10;527;201;0,0370879120879121;0,0189753320683112
+"2018";"19";"19-Sociologie, démographie";"Sciences humaines";"Lettres et sciences humaines";22;17;633;249;0,0249433106575964;0,0268562401263823
+"2018";"20";"20-Ethnologie, préhistoire, anthropologie biologique";"Sciences humaines";"Lettres et sciences humaines";5;2;136;69;0,024390243902439;0,0147058823529412
+"2018";"21";"21-Histoire, civilisations, archéologie et art des mondes anciens et médiévaux";"Sciences humaines";"Lettres et sciences humaines";12;23;479;255;0,0163487738419619;0,0480167014613779
+"2018";"22";"22-Histoire et civilisations : histoire des mondes modernes, histoire du monde contemporain , de l'art , de la musique";"Sciences humaines";"Lettres et sciences humaines";25;23;669;386;0,023696682464455;0,0343796711509716
+"2018";"23";"23-Géographie physique, humaine, économique et régionale";"Sciences humaines";"Lettres et sciences humaines";23;7;595;260;0,0269005847953216;0,0117647058823529
+"2018";"24";"24-Aménagement de l'espace, urbanisme";"Sciences humaines";"Lettres et sciences humaines";6;2;163;98;0,0229885057471264;0,0122699386503067
+"2018";"25";"25-Mathématiques";"Mathématiques et informatique";"Sciences";21;14;796;488;0,0163551401869159;0,0175879396984925
+"2018";"26";"26-Mathématiques appliquées et applications des mathématiques";"Mathématiques et informatique";"Sciences";27;25;1144;631;0,0152112676056338;0,0218531468531469
+"2018";"27";"27-Informatique";"Mathématiques et informatique";"Sciences";64;33;2372;970;0,0191502094554159;0,0139123102866779
+"2018";"28";"28-Milieux denses et matériaux";"Physique";"Sciences";7;9;849;487;0,00523952095808383;0,0106007067137809
+"2018";"29";"29-Constituants élémentaires";"Physique";"Sciences";4;2;221;173;0,0101522842639594;0,00904977375565611
+"2018";"30";"30-Milieux dilués et optique";"Physique";"Sciences";10;3;371;247;0,0161812297734628;0,00808625336927224
+"2018";"31";"31-Chimie théorique, physique, analytique";"Chimie";"Sciences";11;12;663;324;0,011144883485309;0,0180995475113122
+"2018";"32";"32-Chimie organique, minérale, industrielle";"Chimie";"Sciences";14;6;832;392;0,011437908496732;0,00721153846153846
+"2018";"33";"33-Chimie des matériaux";"Chimie";"Sciences";9;6;577;331;0,00991189427312775;0,0103986135181976
+"2018";"34";"34-Astronomie, astrophysique";"Sciences de la terre";"Sciences";2;4;113;74;0,0106951871657754;0,0353982300884956
+"2018";"35";"35-Structure et évolution de la terre et des autres planètes";"Sciences de la terre";"Sciences";7;7;326;177;0,0139165009940358;0,0214723926380368
+"2018";"36";"36-Terre solide : géodynamique des enveloppes supérieure, paléo-biosphère";"Sciences de la terre";"Sciences";3;4;266;124;0,00769230769230769;0,0150375939849624
+"2018";"37";"37-Météorologie, océanographie physique et physique de l'environnement";"Sciences de la terre";"Sciences";2;2;132;59;0,0104712041884817;0,0151515151515152
+"2018";"60";"60-Mécanique, génie mécanique, génie civil";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";54;18;1611;786;0,0225281602002503;0,0111731843575419
+"2018";"61";"61-Génie informatique, automatique et traitement du signal";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";26;14;1208;553;0,0147643384440659;0,0115894039735099
+"2018";"62";"62-Energétique, génie des procédés";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";16;7;698;389;0,0147194112235511;0,0100286532951289
+"2018";"63";"63-Génie électrique, électronique, photonique et systèmes";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";21;11;1110;577;0,012448132780083;0,00990990990990991
+"2018";"64";"64-Biochimie et biologie moléculaire";"Biologie et biochimie, neurosciences";"Sciences";21;13;774;292;0,0196998123827392;0,0167958656330749
+"2018";"65";"65-Biologie cellulaire";"Biologie et biochimie, neurosciences";"Sciences";17;7;752;279;0,0164888457807953;0,00930851063829787
+"2018";"66";"66-Physiologie";"Biologie et biochimie, neurosciences";"Sciences";5;5;548;196;0,00672043010752688;0,00912408759124088
+"2018";"67";"67-Biologie des populations et écologie";"Biologie et biochimie, neurosciences";"Sciences";14;7;501;193;0,0201729106628242;0,0139720558882236
+"2018";"68";"68-Biologie des organismes";"Biologie et biochimie, neurosciences";"Sciences";6;2;343;152;0,0121212121212121;0,00583090379008746
+"2018";"69";"69-Neurosciences";"Biologie et biochimie, neurosciences";"Sciences";6;2;281;114;0,0151898734177215;0,00711743772241993
+"2018";"70";"70-Sciences de l'éducation et de la formation";"Pluridisciplinaire";"Lettres et sciences humaines";35;18;505;173;0,051622418879056;0,0356435643564356
+"2018";"71";"71-Sciences de l'information et de la communication";"Pluridisciplinaire";"Lettres et sciences humaines";35;5;619;170;0,0443599493029151;0,00807754442649435
+"2018";"72";"72-Epistémologie, histoire des sciences et des techniques";"Pluridisciplinaire";"Lettres et sciences humaines";1;0;69;22;0,010989010989011;0
+"2018";"73";"73-Cultures et langues régionales";"Pluridisciplinaire";"Lettres et sciences humaines";1;2;27;20;0,0212765957446809;0,0740740740740741
+"2018";"74";"74-Sciences et techniques des activités physiques et sportives";"Pluridisciplinaire";"Lettres et sciences humaines";36;15;648;174;0,0437956204379562;0,0231481481481481
+"2018";"76";"76-Théologie catholique";"Théologie";"Lettres et sciences humaines";3;0;20;12;0,09375;0
+"2018";"85";"85-Sciences physico-chimiques et ingénierie appliquée à la santé";"Pharmacie(mono-appartenants)";"Pharmacie";7;3;322;112;0,0161290322580645;0,0093167701863354
+"2018";"86";"86-Sciences du médicament et des autres produits de santé";"Pharmacie(mono-appartenants)";"Pharmacie";13;5;381;179;0,0232142857142857;0,0131233595800525
+"2018";"87";"87-Sciences biologiques, fondamentales et cliniques";"Pharmacie(mono-appartenants)";"Pharmacie";3;3;296;97;0,00763358778625954;0,0101351351351351
+"2019";"1";"1-Droit privé et sciences criminelles";"Droit et science politique";"Droit, économie et gestion";50;25;1212;605;0,0275178866263071;0,0206270627062706
+"2019";"2";"2-Droit public";"Droit et science politique";"Droit, économie et gestion";42;23;794;498;0,0325077399380805;0,0289672544080605
+"2019";"3";"3-Histoire du droit et des institutions";"Droit et science politique";"Droit, économie et gestion";6;3;150;109;0,0231660231660232;0,02
+"2019";"4";"4-Science politique";"Droit et science politique";"Droit, économie et gestion";13;1;265;127;0,0331632653061225;0,00377358490566038
+"2019";"5";"5-Sciences économiques";"Sciences économiques et de gestion";"Droit, économie et gestion";44;18;1168;548;0,0256410256410256;0,0154109589041096
+"2019";"6";"6-Sciences de gestion et du management";"Sciences économiques et de gestion";"Droit, économie et gestion";77;35;1620;494;0,0364238410596026;0,0216049382716049
+"2019";"7";"7-Sciences du langage";"Langues et littératures";"Lettres et sciences humaines";15;18;530;234;0,0196335078534031;0,0339622641509434
+"2019";"8";"8-Langues et littératures anciennes";"Langues et littératures";"Lettres et sciences humaines";7;3;185;99;0,0246478873239437;0,0162162162162162
+"2019";"9";"9-Langue et littérature française";"Langues et littératures";"Lettres et sciences humaines";21;25;594;302;0,0234375;0,0420875420875421
+"2019";"10";"10-Littératures comparées";"Langues et littératures";"Lettres et sciences humaines";2;4;127;84;0,00947867298578199;0,031496062992126
+"2019";"11";"11-Etudes anglophones";"Langues et littératures";"Lettres et sciences humaines";51;22;1248;382;0,0312883435582822;0,0176282051282051
+"2019";"12";"12-Etudes germaniques et scandinaves";"Langues et littératures";"Lettres et sciences humaines";4;0;286;92;0,0105820105820106;0
+"2019";"13";"13-Etudes slaves et baltes";"Langues et littératures";"Lettres et sciences humaines";2;0;93;33;0,0158730158730159;0
+"2019";"14";"14-Etudes romanes";"Langues et littératures";"Lettres et sciences humaines";20;16;727;232;0,0208550573514077;0,0220082530949106
+"2019";"15";"15-Langues, littératures et cultures africaines, asiatiques et d'autres aires";"Langues et littératures";"Lettres et sciences humaines";17;7;305;110;0,0409638554216867;0,0229508196721311
+"2019";"16";"16-Psychologie et ergonomie";"Sciences humaines";"Lettres et sciences humaines";53;14;964;407;0,0386579139314369;0,0145228215767635
+"2019";"17";"17-Philosophie";"Sciences humaines";"Lettres et sciences humaines";10;9;234;158;0,0255102040816327;0,0384615384615385
+"2019";"18";"18-Architecture (ses théories et ses pratiques), arts appliqués, arts plastiques, arts du spectacle, épistémologie des enseignements artistiques, esthétique, musicologie, musique, sciences de l'art";"Sciences humaines";"Lettres et sciences humaines";20;19;527;201;0,0274725274725275;0,0360531309297913
+"2019";"19";"19-Sociologie, démographie";"Sciences humaines";"Lettres et sciences humaines";30;13;633;249;0,0340136054421769;0,0205371248025276
+"2019";"20";"20-Ethnologie, préhistoire, anthropologie biologique";"Sciences humaines";"Lettres et sciences humaines";3;4;136;69;0,0146341463414634;0,0294117647058824
+"2019";"21";"21-Histoire, civilisations, archéologie et art des mondes anciens et médiévaux";"Sciences humaines";"Lettres et sciences humaines";17;9;479;255;0,0231607629427793;0,0187891440501044
+"2019";"22";"22-Histoire et civilisations : histoire des mondes modernes, histoire du monde contemporain , de l'art , de la musique";"Sciences humaines";"Lettres et sciences humaines";20;19;669;386;0,018957345971564;0,0284005979073244
+"2019";"23";"23-Géographie physique, humaine, économique et régionale";"Sciences humaines";"Lettres et sciences humaines";13;8;595;260;0,0152046783625731;0,0134453781512605
+"2019";"24";"24-Aménagement de l'espace, urbanisme";"Sciences humaines";"Lettres et sciences humaines";6;3;163;98;0,0229885057471264;0,0184049079754601
+"2019";"25";"25-Mathématiques";"Mathématiques et informatique";"Sciences";22;15;796;488;0,0171339563862928;0,0188442211055276
+"2019";"26";"26-Mathématiques appliquées et applications des mathématiques";"Mathématiques et informatique";"Sciences";40;18;1144;631;0,0225352112676056;0,0157342657342657
+"2019";"27";"27-Informatique";"Mathématiques et informatique";"Sciences";65;39;2372;970;0,0194494314781568;0,0164418212478921
+"2019";"28";"28-Milieux denses et matériaux";"Physique";"Sciences";8;22;849;487;0,00598802395209581;0,0259128386336867
+"2019";"29";"29-Constituants élémentaires";"Physique";"Sciences";4;2;221;173;0,0101522842639594;0,00904977375565611
+"2019";"30";"30-Milieux dilués et optique";"Physique";"Sciences";3;4;371;247;0,00485436893203883;0,0107816711590297
+"2019";"31";"31-Chimie théorique, physique, analytique";"Chimie";"Sciences";15;11;663;324;0,0151975683890578;0,0165912518853695
+"2019";"32";"32-Chimie organique, minérale, industrielle";"Chimie";"Sciences";9;3;832;392;0,00735294117647059;0,00360576923076923
+"2019";"33";"33-Chimie des matériaux";"Chimie";"Sciences";3;6;577;331;0,00330396475770925;0,0103986135181976
+"2019";"34";"34-Astronomie, astrophysique";"Sciences de la terre";"Sciences";4;4;113;74;0,0213903743315508;0,0353982300884956
+"2019";"35";"35-Structure et évolution de la terre et des autres planètes";"Sciences de la terre";"Sciences";9;8;326;177;0,0178926441351889;0,0245398773006135
+"2019";"36";"36-Terre solide : géodynamique des enveloppes supérieure, paléo-biosphère";"Sciences de la terre";"Sciences";0;2;266;124;0;0,0075187969924812
+"2019";"37";"37-Météorologie, océanographie physique et physique de l'environnement";"Sciences de la terre";"Sciences";1;1;132;59;0,00523560209424084;0,00757575757575758
+"2019";"60";"60-Mécanique, génie mécanique, génie civil";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";51;25;1611;786;0,0212765957446809;0,0155183116076971
+"2019";"61";"61-Génie informatique, automatique et traitement du signal";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";33;20;1208;553;0,0187393526405451;0,0165562913907285
+"2019";"62";"62-Energétique, génie des procédés";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";10;8;698;389;0,00919963201471941;0,0114613180515759
+"2019";"63";"63-Génie électrique, électronique, photonique et systèmes";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";20;13;1110;577;0,01185536455246;0,0117117117117117
+"2019";"64";"64-Biochimie et biologie moléculaire";"Biologie et biochimie, neurosciences";"Sciences";21;12;774;292;0,0196998123827392;0,0155038759689922
+"2019";"65";"65-Biologie cellulaire";"Biologie et biochimie, neurosciences";"Sciences";13;5;752;279;0,0126091173617847;0,00664893617021277
+"2019";"66";"66-Physiologie";"Biologie et biochimie, neurosciences";"Sciences";4;6;548;196;0,00537634408602151;0,0109489051094891
+"2019";"67";"67-Biologie des populations et écologie";"Biologie et biochimie, neurosciences";"Sciences";8;3;501;193;0,0115273775216138;0,00598802395209581
+"2019";"68";"68-Biologie des organismes";"Biologie et biochimie, neurosciences";"Sciences";4;3;343;152;0,00808080808080808;0,0087463556851312
+"2019";"69";"69-Neurosciences";"Biologie et biochimie, neurosciences";"Sciences";8;4;281;114;0,020253164556962;0,0142348754448399
+"2019";"70";"70-Sciences de l'éducation et de la formation";"Pluridisciplinaire";"Lettres et sciences humaines";34;15;505;173;0,0501474926253687;0,0297029702970297
+"2019";"71";"71-Sciences de l'information et de la communication";"Pluridisciplinaire";"Lettres et sciences humaines";25;9;619;170;0,0316856780735108;0,0145395799676898
+"2019";"72";"72-Epistémologie, histoire des sciences et des techniques";"Pluridisciplinaire";"Lettres et sciences humaines";1;1;69;22;0,010989010989011;0,0144927536231884
+"2019";"73";"73-Cultures et langues régionales";"Pluridisciplinaire";"Lettres et sciences humaines";2;1;27;20;0,0425531914893617;0,037037037037037
+"2019";"74";"74-Sciences et techniques des activités physiques et sportives";"Pluridisciplinaire";"Lettres et sciences humaines";46;7;648;174;0,0559610705596107;0,0108024691358025
+"2019";"76";"76-Théologie catholique";"Théologie";"Lettres et sciences humaines";0;1;20;12;0;0,05
+"2019";"85";"85-Sciences physico-chimiques et ingénierie appliquée à la santé";"Pharmacie(mono-appartenants)";"Pharmacie";13;4;322;112;0,0299539170506912;0,0124223602484472
+"2019";"86";"86-Sciences du médicament et des autres produits de santé";"Pharmacie(mono-appartenants)";"Pharmacie";9;7;381;179;0,0160714285714286;0,0183727034120735
+"2019";"87";"87-Sciences biologiques, fondamentales et cliniques";"Pharmacie(mono-appartenants)";"Pharmacie";1;3;296;97;0,00254452926208651;0,0101351351351351
+"2020";"1";"1-Droit privé et sciences criminelles";"Droit et science politique";"Droit, économie et gestion";53;30;1212;605;0,0291689598238855;0,0247524752475248
+"2020";"2";"2-Droit public";"Droit et science politique";"Droit, économie et gestion";40;15;794;498;0,0309597523219814;0,0188916876574307
+"2020";"3";"3-Histoire du droit et des institutions";"Droit et science politique";"Droit, économie et gestion";5;1;150;109;0,0193050193050193;0,00666666666666667
+"2020";"4";"4-Science politique";"Droit et science politique";"Droit, économie et gestion";15;5;265;127;0,038265306122449;0,0188679245283019
+"2020";"5";"5-Sciences économiques";"Sciences économiques et de gestion";"Droit, économie et gestion";43;25;1168;548;0,0250582750582751;0,0214041095890411
+"2020";"6";"6-Sciences de gestion et du management";"Sciences économiques et de gestion";"Droit, économie et gestion";79;20;1620;494;0,0373699148533586;0,0123456790123457
+"2020";"7";"7-Sciences du langage";"Langues et littératures";"Lettres et sciences humaines";26;18;530;234;0,0340314136125654;0,0339622641509434
+"2020";"8";"8-Langues et littératures anciennes";"Langues et littératures";"Lettres et sciences humaines";7;4;185;99;0,0246478873239437;0,0216216216216216
+"2020";"9";"9-Langue et littérature française";"Langues et littératures";"Lettres et sciences humaines";24;27;594;302;0,0267857142857143;0,0454545454545455
+"2020";"10";"10-Littératures comparées";"Langues et littératures";"Lettres et sciences humaines";5;0;127;84;0,023696682464455;0
+"2020";"11";"11-Etudes anglophones";"Langues et littératures";"Lettres et sciences humaines";53;21;1248;382;0,0325153374233129;0,0168269230769231
+"2020";"12";"12-Etudes germaniques et scandinaves";"Langues et littératures";"Lettres et sciences humaines";6;2;286;92;0,0158730158730159;0,00699300699300699
+"2020";"13";"13-Etudes slaves et baltes";"Langues et littératures";"Lettres et sciences humaines";4;2;93;33;0,0317460317460317;0,021505376344086
+"2020";"14";"14-Etudes romanes";"Langues et littératures";"Lettres et sciences humaines";18;13;727;232;0,0187695516162669;0,0178817056396149
+"2020";"15";"15-Langues, littératures et cultures africaines, asiatiques et d'autres aires";"Langues et littératures";"Lettres et sciences humaines";15;12;305;110;0,036144578313253;0,039344262295082
+"2020";"16";"16-Psychologie et ergonomie";"Sciences humaines";"Lettres et sciences humaines";46;18;964;407;0,0335521517140773;0,0186721991701245
+"2020";"17";"17-Philosophie";"Sciences humaines";"Lettres et sciences humaines";18;12;234;158;0,0459183673469388;0,0512820512820513
+"2020";"18";"18-Architecture (ses théories et ses pratiques), arts appliqués, arts plastiques, arts du spectacle, épistémologie des enseignements artistiques, esthétique, musicologie, musique, sciences de l'art";"Sciences humaines";"Lettres et sciences humaines";29;12;527;201;0,0398351648351648;0,0227703984819734
+"2020";"19";"19-Sociologie, démographie";"Sciences humaines";"Lettres et sciences humaines";26;14;633;249;0,0294784580498866;0,0221169036334913
+"2020";"20";"20-Ethnologie, préhistoire, anthropologie biologique";"Sciences humaines";"Lettres et sciences humaines";5;5;136;69;0,024390243902439;0,0367647058823529
+"2020";"21";"21-Histoire, civilisations, archéologie et art des mondes anciens et médiévaux";"Sciences humaines";"Lettres et sciences humaines";14;13;479;255;0,0190735694822888;0,0271398747390397
+"2020";"22";"22-Histoire et civilisations : histoire des mondes modernes, histoire du monde contemporain , de l'art , de la musique";"Sciences humaines";"Lettres et sciences humaines";32;21;669;386;0,0303317535545024;0,031390134529148
+"2020";"23";"23-Géographie physique, humaine, économique et régionale";"Sciences humaines";"Lettres et sciences humaines";24;12;595;260;0,0280701754385965;0,0201680672268908
+"2020";"24";"24-Aménagement de l'espace, urbanisme";"Sciences humaines";"Lettres et sciences humaines";2;2;163;98;0,00766283524904215;0,0122699386503067
+"2020";"25";"25-Mathématiques";"Mathématiques et informatique";"Sciences";25;9;796;488;0,0194704049844237;0,0113065326633166
+"2020";"26";"26-Mathématiques appliquées et applications des mathématiques";"Mathématiques et informatique";"Sciences";41;20;1144;631;0,0230985915492958;0,0174825174825175
+"2020";"27";"27-Informatique";"Mathématiques et informatique";"Sciences";71;41;2372;970;0,021244763614602;0,0172849915682968
+"2020";"28";"28-Milieux denses et matériaux";"Physique";"Sciences";15;19;849;487;0,0112275449101796;0,0223792697290931
+"2020";"29";"29-Constituants élémentaires";"Physique";"Sciences";4;6;221;173;0,0101522842639594;0,0271493212669683
+"2020";"30";"30-Milieux dilués et optique";"Physique";"Sciences";3;3;371;247;0,00485436893203883;0,00808625336927224
+"2020";"31";"31-Chimie théorique, physique, analytique";"Chimie";"Sciences";12;13;663;324;0,0121580547112462;0,0196078431372549
+"2020";"32";"32-Chimie organique, minérale, industrielle";"Chimie";"Sciences";9;5;832;392;0,00735294117647059;0,00600961538461538
+"2020";"33";"33-Chimie des matériaux";"Chimie";"Sciences";10;6;577;331;0,0110132158590308;0,0103986135181976
+"2020";"34";"34-Astronomie, astrophysique";"Sciences de la terre";"Sciences";0;1;113;74;0;0,00884955752212389
+"2020";"35";"35-Structure et évolution de la terre et des autres planètes";"Sciences de la terre";"Sciences";18;7;326;177;0,0357852882703777;0,0214723926380368
+"2020";"36";"36-Terre solide : géodynamique des enveloppes supérieure, paléo-biosphère";"Sciences de la terre";"Sciences";4;4;266;124;0,0102564102564103;0,0150375939849624
+"2020";"37";"37-Météorologie, océanographie physique et physique de l'environnement";"Sciences de la terre";"Sciences";1;6;132;59;0,00523560209424084;0,0454545454545455
+"2020";"60";"60-Mécanique, génie mécanique, génie civil";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";39;33;1611;786;0,016270337922403;0,0204841713221601
+"2020";"61";"61-Génie informatique, automatique et traitement du signal";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";33;16;1208;553;0,0187393526405451;0,0132450331125828
+"2020";"62";"62-Energétique, génie des procédés";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";15;12;698;389;0,0137994480220791;0,0171919770773639
+"2020";"63";"63-Génie électrique, électronique, photonique et systèmes";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";28;22;1110;577;0,016597510373444;0,0198198198198198
+"2020";"64";"64-Biochimie et biologie moléculaire";"Biologie et biochimie, neurosciences";"Sciences";24;13;774;292;0,0225140712945591;0,0167958656330749
+"2020";"65";"65-Biologie cellulaire";"Biologie et biochimie, neurosciences";"Sciences";21;10;752;279;0,020368574199806;0,0132978723404255
+"2020";"66";"66-Physiologie";"Biologie et biochimie, neurosciences";"Sciences";6;2;548;196;0,00806451612903226;0,00364963503649635
+"2020";"67";"67-Biologie des populations et écologie";"Biologie et biochimie, neurosciences";"Sciences";12;4;501;193;0,0172910662824208;0,00798403193612774
+"2020";"68";"68-Biologie des organismes";"Biologie et biochimie, neurosciences";"Sciences";1;4;343;152;0,00202020202020202;0,0116618075801749
+"2020";"69";"69-Neurosciences";"Biologie et biochimie, neurosciences";"Sciences";4;3;281;114;0,010126582278481;0,0106761565836299
+"2020";"70";"70-Sciences de l'éducation et de la formation";"Pluridisciplinaire";"Lettres et sciences humaines";30;17;505;173;0,0442477876106195;0,0336633663366337
+"2020";"71";"71-Sciences de l'information et de la communication";"Pluridisciplinaire";"Lettres et sciences humaines";28;9;619;170;0,0354879594423321;0,0145395799676898
+"2020";"72";"72-Epistémologie, histoire des sciences et des techniques";"Pluridisciplinaire";"Lettres et sciences humaines";2;1;69;22;0,021978021978022;0,0144927536231884
+"2020";"73";"73-Cultures et langues régionales";"Pluridisciplinaire";"Lettres et sciences humaines";1;2;27;20;0,0212765957446809;0,0740740740740741
+"2020";"74";"74-Sciences et techniques des activités physiques et sportives";"Pluridisciplinaire";"Lettres et sciences humaines";40;13;648;174;0,048661800486618;0,0200617283950617
+"2020";"85";"85-Sciences physico-chimiques et ingénierie appliquée à la santé";"Pharmacie(mono-appartenants)";"Pharmacie";3;4;322;112;0,00691244239631336;0,0124223602484472
+"2020";"86";"86-Sciences du médicament et des autres produits de santé";"Pharmacie(mono-appartenants)";"Pharmacie";17;4;381;179;0,0303571428571429;0,010498687664042
+"2020";"87";"87-Sciences biologiques, fondamentales et cliniques";"Pharmacie(mono-appartenants)";"Pharmacie";11;6;296;97;0,0279898218829517;0,0202702702702703
+"2021";"1";"1-Droit privé et sciences criminelles";"Droit et science politique";"Droit, économie et gestion";39;29;1212;605;0,0214639515685195;0,0239273927392739
+"2021";"2";"2-Droit public";"Droit et science politique";"Droit, économie et gestion";33;20;794;498;0,0255417956656347;0,0251889168765743
+"2021";"3";"3-Histoire du droit et des institutions";"Droit et science politique";"Droit, économie et gestion";10;2;150;109;0,0386100386100386;0,0133333333333333
+"2021";"4";"4-Science politique";"Droit et science politique";"Droit, économie et gestion";10;5;265;127;0,0255102040816327;0,0188679245283019
+"2021";"5";"5-Sciences économiques";"Sciences économiques et de gestion";"Droit, économie et gestion";49;25;1168;548;0,0285547785547786;0,0214041095890411
+"2021";"6";"6-Sciences de gestion et du management";"Sciences économiques et de gestion";"Droit, économie et gestion";67;17;1620;494;0,0316934720908231;0,0104938271604938
+"2021";"7";"7-Sciences du langage";"Langues et littératures";"Lettres et sciences humaines";26;12;530;234;0,0340314136125654;0,0226415094339623
+"2021";"8";"8-Langues et littératures anciennes";"Langues et littératures";"Lettres et sciences humaines";5;2;185;99;0,0176056338028169;0,0108108108108108
+"2021";"9";"9-Langue et littérature française";"Langues et littératures";"Lettres et sciences humaines";21;13;594;302;0,0234375;0,0218855218855219
+"2021";"10";"10-Littératures comparées";"Langues et littératures";"Lettres et sciences humaines";6;7;127;84;0,028436018957346;0,0551181102362205
+"2021";"11";"11-Etudes anglophones";"Langues et littératures";"Lettres et sciences humaines";44;18;1248;382;0,0269938650306748;0,0144230769230769
+"2021";"12";"12-Etudes germaniques et scandinaves";"Langues et littératures";"Lettres et sciences humaines";3;5;286;92;0,00793650793650794;0,0174825174825175
+"2021";"13";"13-Etudes slaves et baltes";"Langues et littératures";"Lettres et sciences humaines";1;1;93;33;0,00793650793650794;0,010752688172043
+"2021";"14";"14-Etudes romanes";"Langues et littératures";"Lettres et sciences humaines";20;15;727;232;0,0208550573514077;0,0206327372764787
+"2021";"15";"15-Langues, littératures et cultures africaines, asiatiques et d'autres aires";"Langues et littératures";"Lettres et sciences humaines";20;5;305;110;0,0481927710843374;0,0163934426229508
+"2021";"16";"16-Psychologie et ergonomie";"Sciences humaines";"Lettres et sciences humaines";45;24;964;407;0,0328227571115974;0,024896265560166
+"2021";"17";"17-Philosophie";"Sciences humaines";"Lettres et sciences humaines";5;13;234;158;0,0127551020408163;0,0555555555555556
+"2021";"18";"18-Architecture (ses théories et ses pratiques), arts appliqués, arts plastiques, arts du spectacle, épistémologie des enseignements artistiques, esthétique, musicologie, musique, sciences de l'art";"Sciences humaines";"Lettres et sciences humaines";30;11;527;201;0,0412087912087912;0,0208728652751423
+"2021";"19";"19-Sociologie, démographie";"Sciences humaines";"Lettres et sciences humaines";15;16;633;249;0,0170068027210884;0,0252764612954186
+"2021";"20";"20-Ethnologie, préhistoire, anthropologie biologique";"Sciences humaines";"Lettres et sciences humaines";4;7;136;69;0,0195121951219512;0,0514705882352941
+"2021";"21";"21-Histoire, civilisations, archéologie et art des mondes anciens et médiévaux";"Sciences humaines";"Lettres et sciences humaines";17;16;479;255;0,0231607629427793;0,0334029227557411
+"2021";"22";"22-Histoire et civilisations : histoire des mondes modernes, histoire du monde contemporain , de l'art , de la musique";"Sciences humaines";"Lettres et sciences humaines";18;17;669;386;0,0170616113744076;0,0254110612855007
+"2021";"23";"23-Géographie physique, humaine, économique et régionale";"Sciences humaines";"Lettres et sciences humaines";25;13;595;260;0,0292397660818713;0,0218487394957983
+"2021";"24";"24-Aménagement de l'espace, urbanisme";"Sciences humaines";"Lettres et sciences humaines";5;3;163;98;0,0191570881226054;0,0184049079754601
+"2021";"25";"25-Mathématiques";"Mathématiques et informatique";"Sciences";24;18;796;488;0,0186915887850467;0,0226130653266332
+"2021";"26";"26-Mathématiques appliquées et applications des mathématiques";"Mathématiques et informatique";"Sciences";40;18;1144;631;0,0225352112676056;0,0157342657342657
+"2021";"27";"27-Informatique";"Mathématiques et informatique";"Sciences";66;34;2372;970;0,0197486535008977;0,0143338954468803
+"2021";"28";"28-Milieux denses et matériaux";"Physique";"Sciences";18;13;849;487;0,0134730538922156;0,0153121319199058
+"2021";"29";"29-Constituants élémentaires";"Physique";"Sciences";4;5;221;173;0,0101522842639594;0,0226244343891403
+"2021";"30";"30-Milieux dilués et optique";"Physique";"Sciences";4;4;371;247;0,00647249190938511;0,0107816711590297
+"2021";"31";"31-Chimie théorique, physique, analytique";"Chimie";"Sciences";10;13;663;324;0,0101317122593718;0,0196078431372549
+"2021";"32";"32-Chimie organique, minérale, industrielle";"Chimie";"Sciences";11;7;832;392;0,00898692810457516;0,00841346153846154
+"2021";"33";"33-Chimie des matériaux";"Chimie";"Sciences";7;8;577;331;0,00770925110132159;0,0138648180242634
+"2021";"34";"34-Astronomie, astrophysique";"Sciences de la terre";"Sciences";3;0;113;74;0,0160427807486631;0
+"2021";"35";"35-Structure et évolution de la terre et des autres planètes";"Sciences de la terre";"Sciences";13;6;326;177;0,025844930417495;0,0184049079754601
+"2021";"36";"36-Terre solide : géodynamique des enveloppes supérieure, paléo-biosphère";"Sciences de la terre";"Sciences";3;2;266;124;0,00769230769230769;0,0075187969924812
+"2021";"37";"37-Météorologie, océanographie physique et physique de l'environnement";"Sciences de la terre";"Sciences";1;2;132;59;0,00523560209424084;0,0151515151515152
+"2021";"60";"60-Mécanique, génie mécanique, génie civil";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";40;20;1611;786;0,0166875260742595;0,0124146492861577
+"2021";"61";"61-Génie informatique, automatique et traitement du signal";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";29;23;1208;553;0,0164679159568427;0,0190397350993377
+"2021";"62";"62-Energétique, génie des procédés";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";16;10;698;389;0,0147194112235511;0,0143266475644699
+"2021";"63";"63-Génie électrique, électronique, photonique et systèmes";"Mécanique, génie informatique, énergétique, génie électrique";"Sciences";28;12;1110;577;0,016597510373444;0,0108108108108108
+"2021";"64";"64-Biochimie et biologie moléculaire";"Biologie et biochimie, neurosciences";"Sciences";12;15;774;292;0,0112570356472795;0,0193798449612403
+"2021";"65";"65-Biologie cellulaire";"Biologie et biochimie, neurosciences";"Sciences";11;9;752;279;0,0106692531522793;0,011968085106383
+"2021";"66";"66-Physiologie";"Biologie et biochimie, neurosciences";"Sciences";10;5;548;196;0,0134408602150538;0,00912408759124088
+"2021";"67";"67-Biologie des populations et écologie";"Biologie et biochimie, neurosciences";"Sciences";8;10;501;193;0,0115273775216138;0,0199600798403194
+"2021";"68";"68-Biologie des organismes";"Biologie et biochimie, neurosciences";"Sciences";7;3;343;152;0,0141414141414141;0,0087463556851312
+"2021";"69";"69-Neurosciences";"Biologie et biochimie, neurosciences";"Sciences";9;3;281;114;0,0227848101265823;0,0106761565836299
+"2021";"70";"70-Sciences de l'éducation et de la formation";"Pluridisciplinaire";"Lettres et sciences humaines";30;19;505;173;0,0442477876106195;0,0376237623762376
+"2021";"71";"71-Sciences de l'information et de la communication";"Pluridisciplinaire";"Lettres et sciences humaines";32;10;619;170;0,0405576679340938;0,0161550888529887
+"2021";"72";"72-Epistémologie, histoire des sciences et des techniques";"Pluridisciplinaire";"Lettres et sciences humaines";1;1;69;22;0,010989010989011;0,0144927536231884
+"2021";"73";"73-Cultures et langues régionales";"Pluridisciplinaire";"Lettres et sciences humaines";2;0;27;20;0,0425531914893617;0
+"2021";"74";"74-Sciences et techniques des activités physiques et sportives";"Pluridisciplinaire";"Lettres et sciences humaines";35;11;648;174;0,0425790754257908;0,0169753086419753
+"2021";"77";"77-Théologie protestante";"Théologie";"Lettres et sciences humaines";1;0;4;14;0,0555555555555556;0
+"2021";"85";"85-Sciences physico-chimiques et ingénierie appliquée à la santé";"Pharmacie(mono-appartenants)";"Pharmacie";9;7;322;112;0,0207373271889401;0,0217391304347826
+"2021";"86";"86-Sciences du médicament et des autres produits de santé";"Pharmacie(mono-appartenants)";"Pharmacie";14;6;381;179;0,025;0,015748031496063
+"2021";"87";"87-Sciences biologiques, fondamentales et cliniques";"Pharmacie(mono-appartenants)";"Pharmacie";8;1;296;97;0,0203562340966921;0,00337837837837838

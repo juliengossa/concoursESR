@@ -24,10 +24,11 @@ Des versions exploitables sont disponibles ici :
 - [Campagne 2018](emplois-ec.2018.csv)
 - [Campagne 2019](emplois-ec.2019.csv)
 - [Campagne 2020](emplois-ec.2020.csv) (mise à jour le 26/02/2020 à 16h)
-- [Campagnes 2018-2020](emplois-ec.csv)
-- [Effectifs 2017-2018](effectifs-ec.csv)
+- [Campagne 2021](emplois-ec.2021.csv) (mise à jour le 25/02/2021 à 11h)
+- [Campagnes 2018-2021](emplois-ec.csv)
+- [Effectifs 2018-201-](effectifs-ec.csv)
 - [Campagne CNU](emplois-ec.cnu.csv)
-- [Campagne Etablissements](emplois-ec.2020.csv)
+- [Campagne Etablissements](emplois-ec.2021.csv)
 
 ### Nombre d'emplois
 
@@ -67,13 +68,23 @@ La promotion peut se lire en pourcents ou en année. Par exemple, une promotion 
 
 ## Section CNU
 
-_Attention_ : Ces résultats ne tiennent pas compte des 126 postes sur plusieurs sections. Seule la première est prise en compte.
+_Attention_ : Ces résultats ne tiennent pas compte des 169 postes sur plusieurs sections. Seule la première est prise en compte.
 
 
 
 ### Nombre d'emplois
 
+
+```
+## `summarise()` regrouping output by 'Rentrée' (override with `.groups` argument)
+```
+
 ![](emplois-ec_files/figure-html/discpline.emplois-1.png)<!-- -->
+
+
+```
+## `summarise()` regrouping output by 'Rentrée' (override with `.groups` argument)
+```
 
 ![](emplois-ec_files/figure-html/groupe.emplois-1.png)<!-- -->
 
@@ -84,7 +95,17 @@ _Attention_ : Ces résultats ne tiennent pas compte des 126 postes sur plusieurs
 
 _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique) ont été filtrée pour améliorer la présentation des données (elle présente un renouvellement de 10% en 2018, mais sur un effectif non significatif)
 
+
+```
+## `summarise()` regrouping output by 'Rentrée' (override with `.groups` argument)
+```
+
 ![](emplois-ec_files/figure-html/discpline.renouvellement-1.png)<!-- -->
+
+
+```
+## `summarise()` regrouping output by 'Rentrée' (override with `.groups` argument)
+```
 
 ![](emplois-ec_files/figure-html/groupe.renouvellement-1.png)<!-- -->
 
@@ -93,8 +114,18 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
 
 ### Promotion
 
+
+```
+## `summarise()` regrouping output by 'Rentrée' (override with `.groups` argument)
+```
+
 ![](emplois-ec_files/figure-html/discipline.promotion-1.png)<!-- -->
 
+
+
+```
+## `summarise()` regrouping output by 'Rentrée' (override with `.groups` argument)
+```
 
 ![](emplois-ec_files/figure-html/groupe.promotion-1.png)<!-- -->
 
@@ -123,7 +154,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Droit, économie et gestion </td>
    <td style="text-align:right;width: 1em; "> 53 </td>
    <td style="text-align:right;"> 30 </td>
-   <td style="text-align:right;"> 1219 </td>
+   <td style="text-align:right;"> 1212 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 2 </td>
@@ -132,7 +163,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Droit, économie et gestion </td>
    <td style="text-align:right;width: 1em; "> 40 </td>
    <td style="text-align:right;"> 15 </td>
-   <td style="text-align:right;"> 813 </td>
+   <td style="text-align:right;"> 794 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 3 </td>
@@ -141,7 +172,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Droit, économie et gestion </td>
    <td style="text-align:right;width: 1em; "> 5 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> 148 </td>
+   <td style="text-align:right;"> 150 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 4 </td>
@@ -150,7 +181,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Droit, économie et gestion </td>
    <td style="text-align:right;width: 1em; "> 15 </td>
    <td style="text-align:right;"> 5 </td>
-   <td style="text-align:right;"> 262 </td>
+   <td style="text-align:right;"> 265 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 5 </td>
@@ -159,25 +190,25 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Droit, économie et gestion </td>
    <td style="text-align:right;width: 1em; "> 43 </td>
    <td style="text-align:right;"> 25 </td>
-   <td style="text-align:right;"> 1185 </td>
+   <td style="text-align:right;"> 1168 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 6 </td>
-   <td style="text-align:left;width: 1em; "> 6-Sciences de gestion </td>
+   <td style="text-align:left;width: 1em; "> 6-Sciences de gestion et du management </td>
    <td style="text-align:left;width: 1em; "> Sciences économiques et de gestion </td>
    <td style="text-align:left;width: 1em; "> Droit, économie et gestion </td>
    <td style="text-align:right;width: 1em; "> 79 </td>
    <td style="text-align:right;"> 20 </td>
-   <td style="text-align:right;"> 1627 </td>
+   <td style="text-align:right;"> 1620 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 7 </td>
-   <td style="text-align:left;width: 1em; "> 7-Sciences du langage : linguistique et phonétique générales </td>
+   <td style="text-align:left;width: 1em; "> 7-Sciences du langage </td>
    <td style="text-align:left;width: 1em; "> Langues et littératures </td>
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 26 </td>
    <td style="text-align:right;"> 18 </td>
-   <td style="text-align:right;"> 531 </td>
+   <td style="text-align:right;"> 530 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 8 </td>
@@ -186,7 +217,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 7 </td>
    <td style="text-align:right;"> 4 </td>
-   <td style="text-align:right;"> 189 </td>
+   <td style="text-align:right;"> 185 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 9 </td>
@@ -195,7 +226,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 24 </td>
    <td style="text-align:right;"> 27 </td>
-   <td style="text-align:right;"> 603 </td>
+   <td style="text-align:right;"> 594 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 10 </td>
@@ -204,61 +235,61 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 5 </td>
    <td style="text-align:right;"> 0 </td>
-   <td style="text-align:right;"> 123 </td>
+   <td style="text-align:right;"> 127 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 11 </td>
-   <td style="text-align:left;width: 1em; "> 11-Langues et littératures anglaises et anglo-saxonnes </td>
+   <td style="text-align:left;width: 1em; "> 11-Etudes anglophones </td>
    <td style="text-align:left;width: 1em; "> Langues et littératures </td>
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 53 </td>
    <td style="text-align:right;"> 21 </td>
-   <td style="text-align:right;"> 1293 </td>
+   <td style="text-align:right;"> 1248 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 12 </td>
-   <td style="text-align:left;width: 1em; "> 12-Langues et littératures germaniques et scandinaves </td>
+   <td style="text-align:left;width: 1em; "> 12-Etudes germaniques et scandinaves </td>
    <td style="text-align:left;width: 1em; "> Langues et littératures </td>
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 6 </td>
    <td style="text-align:right;"> 2 </td>
-   <td style="text-align:right;"> 294 </td>
+   <td style="text-align:right;"> 286 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 13 </td>
-   <td style="text-align:left;width: 1em; "> 13-Langues et littératures slaves </td>
+   <td style="text-align:left;width: 1em; "> 13-Etudes slaves et baltes </td>
    <td style="text-align:left;width: 1em; "> Langues et littératures </td>
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 4 </td>
    <td style="text-align:right;"> 2 </td>
-   <td style="text-align:right;"> 91 </td>
+   <td style="text-align:right;"> 93 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 14 </td>
-   <td style="text-align:left;width: 1em; "> 14-Langues et littératures romanes : espagnol, italien, portugais, autres langues romanes </td>
+   <td style="text-align:left;width: 1em; "> 14-Etudes romanes </td>
    <td style="text-align:left;width: 1em; "> Langues et littératures </td>
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 18 </td>
    <td style="text-align:right;"> 13 </td>
-   <td style="text-align:right;"> 728 </td>
+   <td style="text-align:right;"> 727 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 15 </td>
-   <td style="text-align:left;width: 1em; "> 15-Langues et littératures arabes, chinoises, japonaises, hébraique, d'autres domaines linguistiques </td>
+   <td style="text-align:left;width: 1em; "> 15-Langues, littératures et cultures africaines, asiatiques et d'autres aires </td>
    <td style="text-align:left;width: 1em; "> Langues et littératures </td>
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 15 </td>
    <td style="text-align:right;"> 12 </td>
-   <td style="text-align:right;"> 281 </td>
+   <td style="text-align:right;"> 305 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 16 </td>
-   <td style="text-align:left;width: 1em; "> 16-Psychologie, psychologie clinique, psychologie sociale </td>
+   <td style="text-align:left;width: 1em; "> 16-Psychologie et ergonomie </td>
    <td style="text-align:left;width: 1em; "> Sciences humaines </td>
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 46 </td>
    <td style="text-align:right;"> 18 </td>
-   <td style="text-align:right;"> 963 </td>
+   <td style="text-align:right;"> 964 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 17 </td>
@@ -267,7 +298,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 18 </td>
    <td style="text-align:right;"> 12 </td>
-   <td style="text-align:right;"> 224 </td>
+   <td style="text-align:right;"> 234 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 18 </td>
@@ -276,7 +307,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 29 </td>
    <td style="text-align:right;"> 12 </td>
-   <td style="text-align:right;"> 514 </td>
+   <td style="text-align:right;"> 527 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 19 </td>
@@ -285,7 +316,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 26 </td>
    <td style="text-align:right;"> 14 </td>
-   <td style="text-align:right;"> 627 </td>
+   <td style="text-align:right;"> 633 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 20 </td>
@@ -294,7 +325,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 5 </td>
    <td style="text-align:right;"> 5 </td>
-   <td style="text-align:right;"> 133 </td>
+   <td style="text-align:right;"> 136 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 21 </td>
@@ -303,7 +334,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 14 </td>
    <td style="text-align:right;"> 13 </td>
-   <td style="text-align:right;"> 489 </td>
+   <td style="text-align:right;"> 479 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 22 </td>
@@ -312,7 +343,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 32 </td>
    <td style="text-align:right;"> 21 </td>
-   <td style="text-align:right;"> 663 </td>
+   <td style="text-align:right;"> 669 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 23 </td>
@@ -321,7 +352,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 24 </td>
    <td style="text-align:right;"> 12 </td>
-   <td style="text-align:right;"> 587 </td>
+   <td style="text-align:right;"> 595 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 24 </td>
@@ -330,7 +361,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 2 </td>
    <td style="text-align:right;"> 2 </td>
-   <td style="text-align:right;"> 164 </td>
+   <td style="text-align:right;"> 163 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 25 </td>
@@ -339,7 +370,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 25 </td>
    <td style="text-align:right;"> 9 </td>
-   <td style="text-align:right;"> 823 </td>
+   <td style="text-align:right;"> 796 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 26 </td>
@@ -348,7 +379,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 41 </td>
    <td style="text-align:right;"> 20 </td>
-   <td style="text-align:right;"> 1147 </td>
+   <td style="text-align:right;"> 1144 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 27 </td>
@@ -357,7 +388,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 71 </td>
    <td style="text-align:right;"> 41 </td>
-   <td style="text-align:right;"> 2403 </td>
+   <td style="text-align:right;"> 2372 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 28 </td>
@@ -366,7 +397,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 15 </td>
    <td style="text-align:right;"> 19 </td>
-   <td style="text-align:right;"> 858 </td>
+   <td style="text-align:right;"> 849 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 29 </td>
@@ -384,7 +415,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 3 </td>
    <td style="text-align:right;"> 3 </td>
-   <td style="text-align:right;"> 374 </td>
+   <td style="text-align:right;"> 371 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 31 </td>
@@ -393,7 +424,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 12 </td>
    <td style="text-align:right;"> 13 </td>
-   <td style="text-align:right;"> 668 </td>
+   <td style="text-align:right;"> 663 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 32 </td>
@@ -402,7 +433,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 9 </td>
    <td style="text-align:right;"> 5 </td>
-   <td style="text-align:right;"> 845 </td>
+   <td style="text-align:right;"> 832 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 33 </td>
@@ -411,7 +442,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 10 </td>
    <td style="text-align:right;"> 6 </td>
-   <td style="text-align:right;"> 574 </td>
+   <td style="text-align:right;"> 577 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 34 </td>
@@ -420,7 +451,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 0 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> 116 </td>
+   <td style="text-align:right;"> 113 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 35 </td>
@@ -429,7 +460,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 18 </td>
    <td style="text-align:right;"> 7 </td>
-   <td style="text-align:right;"> 330 </td>
+   <td style="text-align:right;"> 326 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 36 </td>
@@ -438,11 +469,11 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 4 </td>
    <td style="text-align:right;"> 4 </td>
-   <td style="text-align:right;"> 268 </td>
+   <td style="text-align:right;"> 266 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 37 </td>
-   <td style="text-align:left;width: 1em; "> 37-Météorologie, océanographie physique de l'environnement </td>
+   <td style="text-align:left;width: 1em; "> 37-Météorologie, océanographie physique et physique de l'environnement </td>
    <td style="text-align:left;width: 1em; "> Sciences de la terre </td>
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 1 </td>
@@ -456,7 +487,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 39 </td>
    <td style="text-align:right;"> 33 </td>
-   <td style="text-align:right;"> 1607 </td>
+   <td style="text-align:right;"> 1611 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 61 </td>
@@ -465,7 +496,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 33 </td>
    <td style="text-align:right;"> 16 </td>
-   <td style="text-align:right;"> 1206 </td>
+   <td style="text-align:right;"> 1208 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 62 </td>
@@ -474,7 +505,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 15 </td>
    <td style="text-align:right;"> 12 </td>
-   <td style="text-align:right;"> 703 </td>
+   <td style="text-align:right;"> 698 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 63 </td>
@@ -483,7 +514,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 28 </td>
    <td style="text-align:right;"> 22 </td>
-   <td style="text-align:right;"> 1117 </td>
+   <td style="text-align:right;"> 1110 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 64 </td>
@@ -492,7 +523,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 24 </td>
    <td style="text-align:right;"> 13 </td>
-   <td style="text-align:right;"> 773 </td>
+   <td style="text-align:right;"> 774 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 65 </td>
@@ -510,7 +541,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 6 </td>
    <td style="text-align:right;"> 2 </td>
-   <td style="text-align:right;"> 544 </td>
+   <td style="text-align:right;"> 548 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 67 </td>
@@ -519,7 +550,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 12 </td>
    <td style="text-align:right;"> 4 </td>
-   <td style="text-align:right;"> 499 </td>
+   <td style="text-align:right;"> 501 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 68 </td>
@@ -528,7 +559,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 1 </td>
    <td style="text-align:right;"> 4 </td>
-   <td style="text-align:right;"> 344 </td>
+   <td style="text-align:right;"> 343 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 69 </td>
@@ -537,52 +568,52 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Sciences </td>
    <td style="text-align:right;width: 1em; "> 4 </td>
    <td style="text-align:right;"> 3 </td>
-   <td style="text-align:right;"> 287 </td>
+   <td style="text-align:right;"> 281 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 70 </td>
-   <td style="text-align:left;width: 1em; "> 70-Sciences de l'éducation </td>
-   <td style="text-align:left;width: 1em; "> Groupe pluridisciplinaire </td>
+   <td style="text-align:left;width: 1em; "> 70-Sciences de l'éducation et de la formation </td>
+   <td style="text-align:left;width: 1em; "> Pluridisciplinaire </td>
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 30 </td>
    <td style="text-align:right;"> 17 </td>
-   <td style="text-align:right;"> 504 </td>
+   <td style="text-align:right;"> 505 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 71 </td>
    <td style="text-align:left;width: 1em; "> 71-Sciences de l'information et de la communication </td>
-   <td style="text-align:left;width: 1em; "> Groupe pluridisciplinaire </td>
+   <td style="text-align:left;width: 1em; "> Pluridisciplinaire </td>
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 28 </td>
    <td style="text-align:right;"> 9 </td>
-   <td style="text-align:right;"> 613 </td>
+   <td style="text-align:right;"> 619 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 72 </td>
    <td style="text-align:left;width: 1em; "> 72-Epistémologie, histoire des sciences et des techniques </td>
-   <td style="text-align:left;width: 1em; "> Groupe pluridisciplinaire </td>
+   <td style="text-align:left;width: 1em; "> Pluridisciplinaire </td>
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 2 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> 66 </td>
+   <td style="text-align:right;"> 69 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 73 </td>
    <td style="text-align:left;width: 1em; "> 73-Cultures et langues régionales </td>
-   <td style="text-align:left;width: 1em; "> Groupe pluridisciplinaire </td>
+   <td style="text-align:left;width: 1em; "> Pluridisciplinaire </td>
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 1 </td>
    <td style="text-align:right;"> 2 </td>
-   <td style="text-align:right;"> 34 </td>
+   <td style="text-align:right;"> 27 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 74 </td>
    <td style="text-align:left;width: 1em; "> 74-Sciences et techniques des activités physiques et sportives </td>
-   <td style="text-align:left;width: 1em; "> Groupe pluridisciplinaire </td>
+   <td style="text-align:left;width: 1em; "> Pluridisciplinaire </td>
    <td style="text-align:left;width: 1em; "> Lettres et sciences humaines </td>
    <td style="text-align:right;width: 1em; "> 40 </td>
    <td style="text-align:right;"> 13 </td>
-   <td style="text-align:right;"> 642 </td>
+   <td style="text-align:right;"> 648 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 85 </td>
@@ -591,7 +622,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Pharmacie </td>
    <td style="text-align:right;width: 1em; "> 3 </td>
    <td style="text-align:right;"> 4 </td>
-   <td style="text-align:right;"> 323 </td>
+   <td style="text-align:right;"> 322 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 86 </td>
@@ -600,7 +631,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Pharmacie </td>
    <td style="text-align:right;width: 1em; "> 17 </td>
    <td style="text-align:right;"> 4 </td>
-   <td style="text-align:right;"> 389 </td>
+   <td style="text-align:right;"> 381 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 1em; "> 87 </td>
@@ -609,7 +640,7 @@ _Attention_ : Les données 2018 et 2019 de la section 76 (Théologie Catholique)
    <td style="text-align:left;width: 1em; "> Pharmacie </td>
    <td style="text-align:right;width: 1em; "> 11 </td>
    <td style="text-align:right;"> 6 </td>
-   <td style="text-align:right;"> 300 </td>
+   <td style="text-align:right;"> 296 </td>
   </tr>
 </tbody>
 </table>

@@ -21,7 +21,7 @@ library(kableExtra)
 
 load("emplois-ec.RData")
 
-rentrée = 2020
+rentrée = 2021
 
 
 label_emplois <- function(x) {
@@ -47,10 +47,11 @@ Des versions exploitables sont disponibles ici :
 - [Campagne 2018](emplois-ec.2018.csv)
 - [Campagne 2019](emplois-ec.2019.csv)
 - [Campagne 2020](emplois-ec.2020.csv) (mise à jour le 26/02/2020 à 16h)
-- [Campagnes 2018-2020](emplois-ec.csv)
-- [Effectifs 2017-2018](effectifs-ec.csv)
+- [Campagne 2021](emplois-ec.2021.csv) (mise à jour le 25/02/2021 à 11h)
+- [Campagnes 2018-2021](emplois-ec.csv)
+- [Effectifs 2018-201-](effectifs-ec.csv)
 - [Campagne CNU](emplois-ec.cnu.csv)
-- [Campagne Etablissements](emplois-ec.2020.csv)
+- [Campagne Etablissements](emplois-ec.2021.csv)
 
 ### Nombre d'emplois
 
